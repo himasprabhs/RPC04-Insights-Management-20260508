@@ -1,5 +1,4 @@
 # Resume Project Challenge 04: Provide **Insights** to **Management** in **Consumer Goods Domain**
-
 ---
 
 ## About
